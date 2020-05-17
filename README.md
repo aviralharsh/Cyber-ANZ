@@ -1,7 +1,13 @@
 # Cyber-ANZ
 This repository contains solutions to all the Tasks in Cyber@ANZ virtual internship provided by InsideSherpa
 
-These documents and images were extracted from the pcap file provided using WireShark and HxD software.
+**TASK - 1:**
+
+A word file with proper wxplation of why the email was considered "Malicious" or "Safe" is uploaded in the TASK 1 folder.
+
+**TASK - 2:**
+
+The documents and images were extracted from the pcap file provided using WireShark and HxD software.
 
 My observations and Findings while extracting these files are:
 
