@@ -3,7 +3,7 @@ This repository contains solutions to all the Tasks in Cyber@ANZ virtual interns
 
 **TASK - 1:**
 
-A word file with proper wxplation of why the email was considered "Malicious" or "Safe" is uploaded in the TASK 1 folder.
+A word file with proper explation of why the email was considered "Malicious" or "Safe" is uploaded in the TASK 1 folder.
 
 **TASK - 2:**
 
