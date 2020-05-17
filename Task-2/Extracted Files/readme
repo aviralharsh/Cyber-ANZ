@@ -13,3 +13,7 @@ Step 2). Look for the file you want to extract and find the packet it is communi
 Step 3). Click on the GET file that was communicating with the file to be extracted and right click on "Media Type". This option will be available in the dialog box below the one showing HTTP stream. Then select "Export Packet Bytes" from the pull down menu and save the file with a proper extension (like .jpg/.png/.pdf/.doc etc)
 
 Step 4). Now go the location where you saved the file and open it. You will be able to see the contents of the extracted document/image.
+
+**PLEASE NOTE: The Patch Files uploaded here are geniune work of the auther and copying or duplication is NOT ALLOWED.**
+
+**This Repository is only for your refrence and help. KEEP LEARNING :)**
