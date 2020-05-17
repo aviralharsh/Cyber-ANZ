@@ -17,6 +17,6 @@ Step 3). Click on the GET file that was communicating with the file to be extrac
 
 Step 4). Now go the location where you saved the file and open it. You will be able to see the contents of the extracted document/image.
 
-**PLEASE NOTE: The Patch Files uploaded here are geniune work of the auther and copying or duplication is NOT ALLOWED.**
+**PLEASE NOTE: All the Files uploaded here are geniune work of the auther and copying or duplication is NOT ALLOWED.**
 
 **This Repository is only for your refrence and help. KEEP LEARNING :)**
